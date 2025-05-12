@@ -51,6 +51,8 @@ __Artificial Intelligence__
 
 ## 🚀 My projects 
 
+*insert projects and add a description*
+
 <!--
 
 insert projects and add a description
@@ -66,6 +68,15 @@ insert projects and add a description
 insert buttons / badges
 
 -->
+
+![Static Badge](https://img.shields.io/badge/%3Ficon%3D%5Bpython%5D-Python-green)
+![Static Badge](https://img.shields.io/badge/%3Ficon%3D%5Bvisualstudiocode%5D-VScode-blue)
+![Static Badge](https://img.shields.io/badge/%3Ficon%3D%5BHTML5%5D-html_%26_CSS-orange)
+![Static Badge](https://img.shields.io/badge/%3Ficon%3D%5Bdocker%5D-Docker-skyblue)
+![Static Badge](https://img.shields.io/badge/%3Ficon%3D%5Bpandas%5D-Pandas-black)
+![Static Badge](https://img.shields.io/badge/%3Ficon%3D%5Bsql%5D-SQL-blue)
+![Static Badge](https://img.shields.io/badge/%3Ficon%3D%5Bgithub%5D-Github-black)
+
 
 ## 📞 Contact
 
