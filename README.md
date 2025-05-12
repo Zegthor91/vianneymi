@@ -1,51 +1,28 @@
-# Hi there 👋
+# Hi there, I'm Vianney 👋
 
 <!--
-**VianneyMI/vianneymi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Faire une animation pour le Hello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## 🗨️ About me
 
 I’m a software engineer working in France’s growing tech industry. I specialize in Python and use it across web development, data engineering, and AI.*
 
-### 🛠️ Hard Skills
-
-__Python__ (Advanced) – Primary programming language
-
-__Web Development__
-
-- Backend development with Flask or Django
-
-- REST API integration
-
-- Web deployment (Docker, CI/CD)
-
-__Data Engineering__
-
-- Data processing (pandas, SQL, ETL pipelines)
-
-- Handling large-scale datasets
-
-- Workflow automation
-
-__Artificial Intelligence__
-
-- Machine Learning (scikit-learn, TensorFlow, PyTorch)
-
-- Natural Language Processing (NLP)
-
-- Version Control – Git & GitHub
+```
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, Python, HTML, CSS],
+  framework: [Pandas],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 ---
 
@@ -59,13 +36,22 @@ insert projects and add a description
 
 -->
 
+---
+
 ## 📊 GitHub stats
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=VianneyMI&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VianneyMI&theme=dark)
+
+
 <!--
 
+insert this : curren streak and longest streak
+
 insert buttons / badges
+
+rajouter les icones, inclure les frameworks (j'ai plus tous les noms en tete)
 
 -->
 
@@ -84,4 +70,9 @@ insert buttons / badges
 
 💼 LinkedIn: https://www.linkedin.com/in/vianney-mixtur-pro/
 
-🐙 GitHub: https://github.com/VianneyMI
+Ⓜ️ Medium: https://medium.com/@vianney.mixtur_39698
+
+
+<!---
+rajouter un lien vers le medium et malt
+-->
