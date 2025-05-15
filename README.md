@@ -5,7 +5,7 @@
 
 <!---
 
-A inclure l'animation pour le hello (en cours)
+A modifier l'animation pour le hello (en cours)
 
 -->
 ## 🗨️ About me
@@ -58,10 +58,13 @@ insert this : curren streak and longest streak ✅
 
 insert buttons / badges ✅
 
++ Inclure le badge JavaScript ✅
+
 rajouter les icones, inclure les frameworks (j'ai plus tous les noms en tete) ✅
 
 -->
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)](https://www.python.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![HTML & CSS](https://img.shields.io/badge/HTML5_&_CSS3-E34F26?&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web)
@@ -72,14 +75,32 @@ rajouter les icones, inclure les frameworks (j'ai plus tous les noms en tete) �
 
 ## 📞 Contact
 
-<a href="mailto:vianney.mixtur@outlook.fr" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24" height="24" /> </a> &nbsp; <span>vianney.mixtur@outlook.fr</span> <br/>
+<p align="left">
+  <a href="mailto:vianney.mixtur@outlook.fr">
+    <span style="color:#8A2BE2; font-size:22px; align=center">@</span>
+    <span>&nbsp;&nbsp;vianney.mixtur@outlook.fr</span>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/vianney-mixtur-pro/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" height="24" /> </a> &nbsp; <span><a href="https://www.linkedin.com/in/vianney-mixtur-pro/">vianney-mixtur-pro</a></span> <br/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vianney-mixtur-pro/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22px" align = "center" />
+    <span>&nbsp;&nbsp;vianney-mixtur-pro</span>
+  </a>
+</p>
 
-<a href="https://medium.com/@vianney.mixtur_39698" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="24" height="24" /> </a> &nbsp; <span><a href="https://medium.com/@vianney.mixtur_39698">@vianney.mixtur_39698</a></span>
+<p align="left">
+  <a href="https://medium.com/@vianney.mixtur_39698">
+    <img src="https://cdn.simpleicons.org/medium/000/fff" width="22px" align="center" />
+    <span>&nbsp;&nbsp;@vianney.mixtur_39698</span>
+  </a>
+</p>
+
 
 
 <!---
+Aligner les fives logos avec le texte (quasi fait)
+
 rajouter un lien vers le medium et malt 
 mettre les fives en logo ✅
 -->
