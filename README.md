@@ -1,13 +1,11 @@
-# Hi there
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VianneyMI/VianneyMI/main/wave_animation.svg" alt="Animation texte" width="800" height="150">
-</div>
+<p align="center">
+  <img src="wave_animation.svg" alt="Hi there animation" width="900" height="250">
+</p>
 
 
 <!---
 
-A inclure l'animation pour le hello
+A inclure l'animation pour le hello (en cours)
 
 -->
 ## 🗨️ About me
@@ -56,11 +54,11 @@ insert projects and add a description
 
 <!--
 
-insert this : curren streak and longest streak
+insert this : curren streak and longest streak ✅
 
-insert buttons / badges
+insert buttons / badges ✅
 
-rajouter les icones, inclure les frameworks (j'ai plus tous les noms en tete)
+rajouter les icones, inclure les frameworks (j'ai plus tous les noms en tete) ✅
 
 -->
 
@@ -82,7 +80,6 @@ rajouter les icones, inclure les frameworks (j'ai plus tous les noms en tete)
 
 
 <!---
-rajouter un lien vers le medium et malt
-
-mettre les fives en logo
+rajouter un lien vers le medium et malt 
+mettre les fives en logo ✅
 -->
