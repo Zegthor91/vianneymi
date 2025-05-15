@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="wave_animation.svg" alt="Hi there animation" width="900" height="250">
-</p>
-
-
+# Hi there
 <!---
 
 A modifier l'animation pour le hello (en cours)
@@ -25,15 +21,26 @@ const thai = {
 }
 ```
 
----
 
 ## 🚀 My projects 
 
-*insert projects and add a description*
+## Amplifai
+
+__Amplifai__ is a package that allows you to transform your raw unstructured text into structured data in a few lines of codes.
+
+> https://github.com/VianneyMI/amplifai.git
+
+---
+
+## Monggregate
+
+Library to make __MongoDB__ aggregation framework and pipelines easy to use in _python_.
+
+> https://github.com/VianneyMI/monggregate.git
 
 <!--
 
-insert projects and add a description
+insert projects amplifai and monggregate
 
 -->
 
@@ -62,13 +69,16 @@ insert buttons / badges ✅
 
 rajouter les icones, inclure les frameworks (j'ai plus tous les noms en tete) ✅
 
+Mettre python et mongoDB En priorité sur la liste
+
 -->
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![HTML & CSS](https://img.shields.io/badge/HTML5_&_CSS3-E34F26?&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white)](https://github.com/)
 
