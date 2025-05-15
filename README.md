@@ -1,4 +1,9 @@
-### Hi there
+# Hi there
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VianneyMI/VianneyMI/main/wave_animation.svg" alt="Animation texte" width="800" height="150">
+</div>
+
 
 <!---
 
@@ -40,7 +45,12 @@ insert projects and add a description
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=VianneyMI&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VianneyMI&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=VianneyMI&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
 
 
 
@@ -64,20 +74,11 @@ rajouter les icones, inclure les frameworks (j'ai plus tous les noms en tete)
 
 ## 📞 Contact
 
-<a href="mailto:vianney.mixtur@outlook.fr">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1haWwiPjxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgeD0iMiIgeT0iNCIgcng9IjIiLz48cGF0aCBkPSJNMjIgN2wtOC45IDUuMWEzIDMgMCAwIDEtMy4xOSAwTDIgNyIvPjwvc3ZnPg==" alt="Email" title="Email" width="24" height="24" />
-</a>
-<span>Email: vianney.mixtur@outlook.fr</span>
+<a href="mailto:vianney.mixtur@outlook.fr" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24" height="24" /> </a> &nbsp; <span>vianney.mixtur@outlook.fr</span> <br/>
 
-<a href="https://www.linkedin.com/in/vianney-mixtur-pro/">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMCAwdjI0aDI0VjB6TTggMTkuMUg0LjR2LTEwSDh6TTYuMiA3LjhjLTEuMiAwLTIuMS0xLTIuMS0yLjEgMC0xLjIgMS0yLjEgMi4xLTIuMSAxLjIgMCAyLjEgMSAyLjEgMi4xIDAgMS4yLTEgMi4xLTIuMSAyLjF6bTEzLjQgMTEuM2gtMy42di01YzAtMS40IDAtMy4yLTEuOS0zLjItMS45IDAtMi4yIDEuNS0yLjIgMy4xdjUuMUg4LjN2LTEwaDMuNHYyLjFoLjFjLjUtMSAxLjctMi4xIDMuNS0yLjEgMy43IDAgNC40IDIuNSA0LjQgNS43djQuMnoiIGZpbGw9IiMwMDc3QjUiLz48L3N2Zz4=" alt="LinkedIn" title="LinkedIn" width="24" height="24" />
-</a>
-<span>LinkedIn: <a href="https://www.linkedin.com/in/vianney-mixtur-pro/">vianney-mixtur-pro</a></span>
+<a href="https://www.linkedin.com/in/vianney-mixtur-pro/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" height="24" /> </a> &nbsp; <span><a href="https://www.linkedin.com/in/vianney-mixtur-pro/">vianney-mixtur-pro</a></span> <br/>
 
-<a href="https://medium.com/@vianney.mixtur_39698">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMCAwdjI0aDI0VjB6TTE5LjIxIDYuNDFsLTEuMjUgMS4yYTAuMzYgMC4zNiAwIDAgMC0wLjE0IDAuMzV2OC44YTAuMzYgMC4zNiAwIDAgMCAwLjE0IDAuMzVsMS4yMiAxLjJ2MC4yNmgtNi4xMnYtMC4yNmwxLjI2LTEuMjNjMC4xMy0wLjEzIDAuMTMtMC4xNiAwLjEzLTAuMzVWOS43N2wtMy41MiA4LjkzaC0wLjQ3bC00LjA5LTguOTN2NS45NmMwLjA0IDAuMjUgMCAwLjUgMC4yMSAwLjY3bDEuNDggMS44MXYwLjI2SDR2LTAuMjZsMS40OC0xLjgxYTAuNzYgMC43NiAwIDAgMCAwLjE5LTAuNjdWOC4zMUEwLjU3IDAuNTcgMCAwIDAgNS40NSA3LjgxTDQuMDkgNi4xNFY1Ljg4aDQuMmwzLjI1IDcuMTJsMi44NC03LjEyaDQuMDJ2MC4yNnoiIGZpbGw9IiMwMDAwMDAiLz48L3N2Zz4=" alt="Medium" title="Medium" width="24" height="24" />
-</a>
-<span>Medium: <a href="https://medium.com/@vianney.mixtur_39698">@vianney.mixtur_39698</a></span>
+<a href="https://medium.com/@vianney.mixtur_39698" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="24" height="24" /> </a> &nbsp; <span><a href="https://medium.com/@vianney.mixtur_39698">@vianney.mixtur_39698</a></span>
 
 
 <!---
